@@ -1,4 +1,4 @@
-# nzm-poc
+# nzms-poc
 
 NestJS + Zod + MongoDB native driver + Swagger.
 

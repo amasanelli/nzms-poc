@@ -11,7 +11,7 @@ import { ZodSerializerInterceptor } from "./common/zod/zod.validate.interceptor"
   imports: [
     ConfigModule.forRoot({ isGlobal: true }),
     DatabaseModule.forRoot({
-      uri: process.env.MONGODB_URI ?? "mongodb://localhost:27017/nzm_poc",
+      uri: process.env.MONGODB_URI ?? "mongodb://localhost:27017/nzms_poc",
     }),
     UsersModule,
   ],

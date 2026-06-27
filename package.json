@@ -1,5 +1,5 @@
 {
-  "name": "nzm-poc",
+  "name": "nzms-poc",
   "version": "0.0.1",
   "description": "NestJS + Zod + MongoDB (native) POC",
   "scripts": {

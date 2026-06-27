@@ -7,7 +7,7 @@ async function bootstrap() {
   app.enableShutdownHooks();
 
   const config = new DocumentBuilder()
-    .setTitle('nzm-poc')
+    .setTitle('nzms-poc')
     .setDescription('Zod + MongoDB native driver + Swagger')
     .setVersion('1.0')
     .build();
